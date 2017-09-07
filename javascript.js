@@ -17,9 +17,12 @@
 //
 //
 
-function madLib(name, subject){
-  var string = name + "'s favroite subject in school is " + subject + ".";
-  return string;
-};
+// function madLib(name, subject){  //function name (paramaters)
+//   var string = name + "'s favroite subject in school is " + subject + "."; //declare variable and set equal to
+//   return string;
+// };
+//
+// console.log(madLib('Patrick', 'art'));
 
-console.log(madLib('Patrick', 'art'));
+function tipCalc ()
+var 
